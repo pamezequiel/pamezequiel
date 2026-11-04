@@ -1,0 +1,41 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFDF2"/>
+      <stop offset="100%" stop-color="#EDE2C9"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A77B32"/>
+      <stop offset="50%" stop-color="#E1BD72"/>
+      <stop offset="100%" stop-color="#A77B32"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+
+  <circle cx="1080" cy="100" r="190" fill="#211A17" opacity=".96"/>
+  <circle cx="1080" cy="100" r="155" fill="none" stroke="#C69B50" stroke-width="2" opacity=".8"/>
+  <circle cx="1080" cy="100" r="125" fill="none" stroke="#C69B50" stroke-width="1" opacity=".5"/>
+
+  <path d="M0 260 Q300 210 590 270 T1200 235" fill="none" stroke="url(#gold)" stroke-width="5"/>
+  <path d="M0 278 Q300 228 590 288 T1200 253" fill="none" stroke="#211A17" stroke-width="2" opacity=".8"/>
+
+  <path d="M850 0 L900 0 L760 320 L710 320 Z" fill="#C69B50" opacity=".13"/>
+
+  <text x="75" y="105" fill="#211A17" font-family="Georgia,serif" font-size="58" font-weight="bold" letter-spacing="2">PAMELA</text>
+  <text x="75" y="165" fill="#211A17" font-family="Georgia,serif" font-size="58" font-weight="bold" letter-spacing="2">DE MORAES</text>
+
+  <rect x="78" y="188" width="5" height="58" rx="2" fill="#A77B32"/>
+
+  <text x="100" y="211" fill="#493323" font-family="Arial,sans-serif" font-size="22" font-weight="bold">ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</text>
+  <text x="100" y="244" fill="#493323" font-family="Arial,sans-serif" font-size="17">Tecnologia  •  Sistemas  •  Processos  •  ERP  •  Dados</text>
+
+  <g transform="translate(970 110)" fill="none" stroke="#D9B36A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="145" height="92" rx="10"/>
+    <path d="M-15 105 H160 L175 120 H-30 Z" fill="#D9B36A" stroke="none"/>
+    <path d="M52 30 L35 47 L52 64 M92 30 L109 47 L92 64 M82 25 L62 69"/>
+  </g>
+
+  <text x="75" y="300" fill="#6D4B27" font-family="Georgia,serif" font-size="14" letter-spacing="3">APRENDENDO • EXPLORANDO • EVOLUINDO</text>
+</svg>
