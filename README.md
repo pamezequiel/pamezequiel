@@ -23,5 +23,5 @@ Estou em processo de transição e desenvolvimento profissional na área de tecn
 **NAVØR Barbearia**  
 Projeto acadêmico de desenvolvimento web, com proposta de uma barbearia que também oferece formação profissional e espaço lounge.
 
-### Um pouco sobre mim
+### Sobre mim
 Acredito no aprendizado contínuo e na possibilidade de construir novas oportunidades por meio da tecnologia. Estou utilizando este espaço para registrar minha evolução, compartilhar projetos e colocar em prática os conhecimentos adquiridos durante a graduação.
