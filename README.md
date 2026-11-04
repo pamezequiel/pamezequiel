@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**pamezequiel/pamezequiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou Pamela de Moraes
 
-Here are some ideas to get you started:
+Estudante de Análise e Desenvolvimento de Sistemas na UNICID.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou em processo de transição e desenvolvimento profissional na área de tecnologia, buscando conectar minha experiência anterior com processos administrativos, fiscais e sistemas ao conhecimento que estou construindo em ADS.
+
+### Atualmente estou aprendendo
+- Lógica de programação
+- Desenvolvimento Web
+- HTML e CSS
+- Git e GitHub
+- Modelagem de dados
+- Sistemas e processos
+
+### Interesses
+- Desenvolvimento de sistemas
+- Sistemas ERP
+- Análise e melhoria de processos
+- Tecnologia e dados
+
+### Projetos acadêmicos
+**NAVØR Barbearia**  
+Projeto acadêmico de desenvolvimento web, com proposta de uma barbearia que também oferece formação profissional e espaço lounge.
+
+### Um pouco sobre mim
+Acredito no aprendizado contínuo e na possibilidade de construir novas oportunidades por meio da tecnologia. Estou utilizando este espaço para registrar minha evolução, compartilhar projetos e colocar em prática os conhecimentos adquiridos durante a graduação.
