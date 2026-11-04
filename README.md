@@ -42,7 +42,7 @@ Atualmente, estou ampliando meus conhecimentos e explorando as possibilidades da
 
 <br/>
 
-<img src="./logo-navor.png" width="190" alt="Logo NAVØR Barbearia"/>
+<img src="./logo_navor_ok.webp" width="190" alt="Logo NAVØR Barbearia"/>
 
 <h3>BARBER • ACADEMY • LOUNGE</h3>
 
