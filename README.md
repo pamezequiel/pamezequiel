@@ -33,38 +33,34 @@ Atualmente, estou ampliando meus conhecimentos e explorando as possibilidades da
 - Tecnologia e dados
 - Soluções para negócios
 
-
 <h2>Projetos acadêmicos</h2>
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center" bgcolor="#211A17">
 
-<h3>♛ NAVØR BARBEARIA</h3>
+<br/>
 
-<strong>BARBER • ACADEMY • LOUNGE</strong>
+<img src="./logo-navor.png" width="190" alt="Logo NAVØR Barbearia"/>
+
+<h3>BARBER • ACADEMY • LOUNGE</h3>
 
 <p>
-Projeto acadêmico desenvolvido em grupo durante
-a graduação em Análise e Desenvolvimento de Sistemas.
+Projeto acadêmico desenvolvido em grupo durante a graduação em Análise e Desenvolvimento de Sistemas.
 </p>
 
 <p>
-Uma proposta que integra serviços de barbearia,
-formação profissional e espaço lounge.
+Uma proposta que integra serviços de barbearia, formação profissional e espaço lounge.
 </p>
 
 <img src="https://img.shields.io/badge/HTML-E8CFA5?style=for-the-badge&logo=html5&logoColor=211A17"/>
-<img src="https://img.shields.io/badge/CSS-211A17?style=for-the-badge&logo=css3&logoColor=D9B36A"/>
+<img src="https://img.shields.io/badge/CSS-D9B36A?style=for-the-badge&logo=css3&logoColor=211A17"/>
 
-<p><em>Identidade visual em preto e dourado.</em></p>
-
+<br/><br/>
 </td>
 </tr>
 </table>
-
 </div>
 
 
