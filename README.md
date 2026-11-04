@@ -1,27 +1,72 @@
 
-# Olá! Eu sou Pamela de Moraes
+<div align="center">
 
-Estudante de Análise e Desenvolvimento de Sistemas na UNICID.
+# PAMELA DE MORAES
 
-Estou em processo de transição e desenvolvimento profissional na área de tecnologia, buscando conectar minha experiência anterior com processos administrativos, fiscais e sistemas ao conhecimento que estou construindo em ADS.
+### Análise e Desenvolvimento de Sistemas
 
-### Atualmente estou aprendendo
-- Lógica de programação
-- Desenvolvimento Web
-- HTML e CSS
-- Git e GitHub
-- Modelagem de dados
-- Sistemas e processos
+**Tecnologia • Sistemas • Processos • ERP • Dados**
 
-### Interesses
+<img src="https://img.shields.io/badge/UNICID-ADS-211A17?style=for-the-badge&labelColor=A77B32" />
+<img src="https://img.shields.io/badge/Aprendizado-Contínuo-211A17?style=for-the-badge&labelColor=A77B32" />
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNICID e estou construindo minha trajetória na área de tecnologia.
+
+Trago uma experiência profissional anterior nas áreas fiscal, contábil e administrativa, que despertou meu interesse por sistemas, processos e soluções tecnológicas.
+
+Atualmente, estou ampliando meus conhecimentos e explorando as possibilidades da tecnologia, conectando minha experiência profissional ao aprendizado adquirido na graduação.
+
+## Tecnologias e conhecimentos
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-E8CFA5?style=for-the-badge&logo=html5&logoColor=211A17)
+![CSS](https://img.shields.io/badge/CSS-E8CFA5?style=for-the-badge&logo=css3&logoColor=211A17)
+![Git](https://img.shields.io/badge/Git-211A17?style=for-the-badge&logo=git&logoColor=D6B46A)
+![GitHub](https://img.shields.io/badge/GitHub-211A17?style=for-the-badge&logo=github&logoColor=D6B46A)
+
+</div>
+
+**Em desenvolvimento:** lógica de programação, desenvolvimento web, modelagem de dados, Git e GitHub.
+
+## Áreas de interesse
+
 - Desenvolvimento de sistemas
 - Sistemas ERP
 - Análise e melhoria de processos
 - Tecnologia e dados
+- Soluções para negócios
 
-### Projetos acadêmicos
-**NAVØR Barbearia**  
-Projeto acadêmico de desenvolvimento web, com proposta de uma barbearia que também oferece formação profissional e espaço lounge.
+## Projetos acadêmicos
 
-### Sobre mim
-Acredito no aprendizado contínuo e na possibilidade de construir novas oportunidades por meio da tecnologia. Estou utilizando este espaço para registrar minha evolução, compartilhar projetos e colocar em prática os conhecimentos adquiridos durante a graduação.
+### NAVØR Barbearia
+
+Projeto acadêmico desenvolvido em grupo durante a graduação em ADS.
+
+Proposta de um espaço que integra barbearia, formação profissional e lounge, com identidade visual em preto e dourado.
+
+**Tecnologias trabalhadas:** HTML e CSS.
+
+## Minha jornada
+
+Este GitHub é um espaço para registrar meu aprendizado, compartilhar projetos acadêmicos e acompanhar minha evolução na tecnologia.
+
+Cada novo conhecimento representa mais um passo nessa construção profissional.
+
+---
+
+<div align="center">
+
+**PAMELA DE MORAES**
+
+*Aprendendo, explorando e construindo novas possibilidades.*
+
+<img src="https://img.shields.io/badge/Feito_com-dedicação-A77B32?style=flat-square&labelColor=211A17" />
+
+</div>
