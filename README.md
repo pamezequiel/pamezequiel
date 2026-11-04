@@ -3,17 +3,6 @@
 <img src="banner-github.svg" width="100%" alt="Banner Pamela de Moraes"/>
 </div>
 
-# PAMELA DE MORAES
-
-### Análise e Desenvolvimento de Sistemas
-
-**Tecnologia • Sistemas • Processos • ERP • Dados**
-
-<img src="https://img.shields.io/badge/UNICID-ADS-211A17?style=for-the-badge&labelColor=A77B32" />
-<img src="https://img.shields.io/badge/Aprendizado-Contínuo-211A17?style=for-the-badge&labelColor=A77B32" />
-
-</div>
-
 ---
 
 ## Sobre mim
