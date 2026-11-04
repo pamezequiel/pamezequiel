@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="banner-github.svg" width="100%" alt="Banner Pamela de Moraes"/>
 </div>
