@@ -31,11 +31,28 @@
   <text x="100" y="211" fill="#493323" font-family="Arial,sans-serif" font-size="22" font-weight="bold">ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</text>
   <text x="100" y="244" fill="#493323" font-family="Arial,sans-serif" font-size="17">Tecnologia  •  Sistemas  •  Processos  •  ERP  •  Dados</text>
 
-  <g transform="translate(970 110)" fill="none" stroke="#D9B36A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="0" y="0" width="145" height="92" rx="10"/>
-    <path d="M-15 105 H160 L175 120 H-30 Z" fill="#D9B36A" stroke="none"/>
-    <path d="M52 30 L35 47 L52 64 M92 30 L109 47 L92 64 M82 25 L62 69"/>
-  </g>
+  
+<g transform="translate(950 72)" fill="none" stroke="#D9B36A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+
+  <!-- Notebook -->
+  <rect x="15" y="5" width="165" height="112" rx="9"/>
+  <path d="M0 132 H195 L180 145 H15 Z" fill="#D9B36A" stroke="none"/>
+
+  <!-- Banco de dados -->
+  <ellipse cx="96" cy="42" rx="27" ry="10"/>
+  <path d="M69 42 V85 C69 98 123 98 123 85 V42"/>
+  <path d="M69 62 C69 75 123 75 123 62"/>
+  <path d="M69 82 C69 95 123 95 123 82"/>
+
+  <!-- Conexões digitais -->
+  <path d="M96 31 V20 H145 V42"/>
+  <path d="M69 63 H43 V85"/>
+  <path d="M123 63 H149 V85"/>
+  <circle cx="145" cy="42" r="5" fill="#D9B36A"/>
+  <circle cx="43" cy="85" r="5" fill="#D9B36A"/>
+  <circle cx="149" cy="85" r="5" fill="#D9B36A"/>
+
+</g>
 
   <text x="75" y="300" fill="#6D4B27" font-family="Georgia,serif" font-size="14" letter-spacing="3">APRENDENDO • EXPLORANDO • EVOLUINDO</text>
 </svg>
