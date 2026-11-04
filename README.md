@@ -33,15 +33,40 @@ Atualmente, estou ampliando meus conhecimentos e explorando as possibilidades da
 - Tecnologia e dados
 - Soluções para negócios
 
-## Projetos acadêmicos
 
-### NAVØR Barbearia
+<h2>Projetos acadêmicos</h2>
 
-Projeto acadêmico desenvolvido em grupo durante a graduação em ADS.
+<div align="center">
 
-Proposta de um espaço que integra barbearia, formação profissional e lounge, com identidade visual em preto e dourado.
+<table>
+<tr>
+<td align="center" width="100%">
 
-**Tecnologias trabalhadas:** HTML e CSS.
+<h3>♛ NAVØR BARBEARIA</h3>
+
+<strong>BARBER • ACADEMY • LOUNGE</strong>
+
+<p>
+Projeto acadêmico desenvolvido em grupo durante
+a graduação em Análise e Desenvolvimento de Sistemas.
+</p>
+
+<p>
+Uma proposta que integra serviços de barbearia,
+formação profissional e espaço lounge.
+</p>
+
+<img src="https://img.shields.io/badge/HTML-E8CFA5?style=for-the-badge&logo=html5&logoColor=211A17"/>
+<img src="https://img.shields.io/badge/CSS-211A17?style=for-the-badge&logo=css3&logoColor=D9B36A"/>
+
+<p><em>Identidade visual em preto e dourado.</em></p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ## Minha jornada
 
