@@ -25,8 +25,6 @@
   Sistemas ERP • Análise de Processos • Desenvolvimento Web • Dados
 </p>
 
-## Tecnologias e conhecimentos
-
 <h2 align="center">✦ TECNOLOGIAS E CONHECIMENTOS ✦</h2>
 
 <p align="center">
