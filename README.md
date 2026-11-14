@@ -51,6 +51,31 @@ Cada novo conhecimento representa mais um passo nessa construção profissional.
 
 ---
 
+<h2 align="center">✦ PROJETOS ACADÊMICOS ✦</h2>
+
+<h3 align="center">NAVØR BARBEARIA</h3>
+
+<p align="center">
+  <img src="./navor-barbearia.png" width="100%" alt="Identidade visual da NAVØR Barbearia"/>
+</p>
+
+<p align="center">
+  <strong>BARBER • ACADEMY • LOUNGE</strong>
+</p>
+
+<p align="center">
+  Projeto acadêmico desenvolvido em grupo durante a graduação em Análise e Desenvolvimento de Sistemas.
+
+  A proposta reúne serviços de barbearia, formação profissional e espaço lounge.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E8CFA5?style=for-the-badge&logo=html5&logoColor=211A17"/>
+  <img src="https://img.shields.io/badge/CSS-211A17?style=for-the-badge&logo=css3&logoColor=D6B46A"/>
+</p>
+
+---
+
 <div align="center">
 
 **PAMELA DE MORAES**
