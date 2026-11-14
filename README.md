@@ -14,33 +14,23 @@ Atualmente, estou ampliando meus conhecimentos e explorando as possibilidades da
 
 ## Tecnologias e conhecimentos
 
-<div align="center">
+<h2 align="center">✦ TECNOLOGIAS E CONHECIMENTOS ✦</h2>
 
-![HTML](https://img.shields.io/badge/HTML-E8CFA5?style=for-the-badge&logo=html5&logoColor=211A17)
-![CSS](https://img.shields.io/badge/CSS-E8CFA5?style=for-the-badge&logo=css3&logoColor=211A17)
-![Git](https://img.shields.io/badge/Git-211A17?style=for-the-badge&logo=git&logoColor=D6B46A)
-![GitHub](https://img.shields.io/badge/GitHub-211A17?style=for-the-badge&logo=github&logoColor=D6B46A)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E8CFA5?style=for-the-badge&logo=html5&logoColor=211A17"/>
+  <img src="https://img.shields.io/badge/CSS-E8CFA5?style=for-the-badge&logo=css3&logoColor=211A17"/>
+  <img src="https://img.shields.io/badge/GIT-211A17?style=for-the-badge&logo=git&logoColor=D6B46A"/>
+  <img src="https://img.shields.io/badge/GITHUB-211A17?style=for-the-badge&logo=github&logoColor=D6B46A"/>
+</p>
 
-</div>
+<p align="center">
+  <b>EM APRENDIZADO</b>
+</p>
 
-**Em desenvolvimento:** lógica de programação, desenvolvimento web, modelagem de dados, Git e GitHub.
+<p align="center">
+  Lógica de programação · Desenvolvimento Web · Modelagem de Dados
+</p>
 
-## Áreas de interesse
-
-- Desenvolvimento de sistemas
-- Sistemas ERP
-- Análise e melhoria de processos
-- Tecnologia e dados
-- Soluções para negócios
-
-
-## Projetos acadêmicos
-
-<div align="center">
-
-<img src="./navor-card.svg" width="100%" alt="Projeto NAVØR Barbearia"/>
-
-</div>
 
 ## Minha jornada
 
