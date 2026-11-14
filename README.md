@@ -78,6 +78,23 @@ Cada novo conhecimento representa mais um passo nessa construção profissional.
 
 <div align="center">
 
+---
+
+<h2 align="center">✦ VAMOS NOS CONECTAR? ✦</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pamela-de-moraes-ezequiel-78381b91/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-Conecte--se comigo-A77B32?style=for-the-badge&logo=linkedin&logoColor=211A17"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pamezequiel">
+    <img src="https://img.shields.io/badge/GITHUB-pamezequiel-211A17?style=for-the-badge&logo=github&logoColor=D6B46A"/>
+  </a>
+</p>
+
+
 **PAMELA DE MORAES**
 
 *Aprendendo, explorando e construindo novas possibilidades.*
