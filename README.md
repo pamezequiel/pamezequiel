@@ -6,11 +6,24 @@
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UNICID e estou construindo minha trajetória na área de tecnologia.
+<h2 align="center">SOBRE MIM</h2>
 
-Trago uma experiência profissional anterior nas áreas fiscal, contábil e administrativa, que despertou meu interesse por sistemas, processos e soluções tecnológicas.
+<p align="center">
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNICID.
+</p>
 
-Atualmente, estou ampliando meus conhecimentos e explorando as possibilidades da tecnologia, conectando minha experiência profissional ao aprendizado adquirido na graduação.
+<p align="center">
+  Minha trajetória profissional começou nas áreas fiscal, contábil e administrativa, onde desenvolvi experiência com processos, controles e sistemas.
+</p>
+
+<p align="center">
+  Atualmente, estou ampliando meus conhecimentos em tecnologia e buscando conectar minha experiência profissional às possibilidades da área de sistemas.
+</p>
+
+<p align="center">
+  <strong>Meus interesses:</strong><br/>
+  Sistemas ERP • Análise de Processos • Desenvolvimento Web • Dados
+</p>
 
 ## Tecnologias e conhecimentos
 
